@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# visual
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*Release/
+*install/
+*install_manifest.txt
+
+# git cz
+node_modules
+package.json
+package-lock.json
+
+# cmake
+*.cmake
+*CMakeFiles/
+*CMakeCache.txt
